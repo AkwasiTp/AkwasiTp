@@ -46,11 +46,7 @@ If you're looking for a skilled and dedicated data analyst to help your team unl
 
 ### :fire: My Stats :
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=AkwasiTp&show_icons=true&include_all_commits=true&hide_border=true" alt="Prince's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkwasiTp&langs_count=8&layout=compact&theme=vision-friendly-dark" alt="Prince's GitHub stats" /> | <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{AkwasiTp}1212%2Fhit-counter" alt="Prince's GitHub Hits" />
-| ------------- | ------------- | ------------- |
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AkwasiTp&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AkwasiTp&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkwasiTp&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
